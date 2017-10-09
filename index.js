@@ -11,5 +11,5 @@ return "Happy " + string1 + ", " + string2 + "!";
 }
 
 function holidayCountdown(string, int) {
-return "It's " + int + "days until " + string + "!";
+return "It's " + int + " days until " + string + "!";
 }
