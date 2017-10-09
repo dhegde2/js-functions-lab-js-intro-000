@@ -1,15 +1,15 @@
-function happyHolidays() { 
-return "Happy holidays!"; 
+function happyHolidays() {
+return "Happy holidays!";
 }
 
-function happyHolidaysTo(string) { 
-return "Happy holidays, " + string; 
+function happyHolidaysTo(string) {
+return "Happy holidays, " + string;
 }
 
-function happyHolidayTo(string1, string2){ 
-return "Happy " + string1 + ", " + string2; 
+function happyHolidayTo(string1, string2){
+return "Happy " + string1 + ", " + string2;
 }
 
-function HolidayCountdown(string, int) { 
-return "It's " + int + "days until " + string; 
+function HolidayCountdown(string, int) {
+return "It's " + int + "days until " + string;
 }
